@@ -1,0 +1,20 @@
+{
+  "name": "optimizedhtml",
+  "description": "OptimizedHTML 4 - Start HTML Template",
+  "main": "index.js",
+  "authors": [
+    "WebDesign Master"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
